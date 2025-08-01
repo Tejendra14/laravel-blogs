@@ -1,6 +1,6 @@
 # 📝 Laravel 12 Blog Application
 
-A clean blog management system built with **Laravel 12**, supporting multiple roles like **Superadmin**, **Admin**, and **Author**. No packages like Spatie, Policies, or Gates are used — only built-in Laravel features.
+A clean blog management system built with **Laravel 12**, supporting multiple roles like **Superadmin**, **Admin**, and **Author**. No packages like Spatie, Policies, or Gates are used — only built-in Laravel features with basic ui and codes for assessment task given by Genesis Web Technology.
 
 ## 🚀 Setup Instructions
 
